@@ -6,11 +6,10 @@
 
 
 ## :camera: Screenshots:
-![Screenshot 2024-05-27 at 19-00-01 Muntadher Attar](https://github.com/muntazar77/react-portfolio/assets/127090047/79430bff-0e77-4cbf-9d80-83eff4bf4196)
+![Screenshot 2024-05-28 at 11-58-36 Home - Muno](https://github.com/muntazar77/muno-template-two/assets/127090047/f4e37950-c147-4fa5-9584-2630dd366ce0)
 
-![Screenshot 2024-05-27 at 19-00-17 Muntadher Attar](https://github.com/muntazar77/react-portfolio/assets/127090047/b1dbe82f-073a-477f-ba0e-932f7a7b11d0)
 
-![Screenshot 2024-05-27 at 19-00-29 Muntadher Attar](https://github.com/muntazar77/react-portfolio/assets/127090047/8d577fb6-d86f-4a87-91a1-2cf1916164ac)
+![Screenshot 2024-05-28 at 11-59-12 Home - Muno](https://github.com/muntazar77/muno-template-two/assets/127090047/8d625070-a2bc-4e70-a252-946914475eed)
 
 ## :gear: Tech Stack
 
